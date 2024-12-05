@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "IT Technical Support Officer",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "Crevs Group, Manado",
+    time: "(Jun, 2015 - Juli, 2019 )",
+    desp: "<li>Ensure that all information technology systems are running smoothly.</li> <li>Installing and configuring network components.</li> <li>Train users on how the product or service used works.</li><li>Perform troubleshooting or identify problems that occur in hardware and software.</li> <li>Recommend solutions to solve problems.</li> <li>Diagnose problems by asking users questions.</li>",
   },
   {
-    title: "Student Developer",
+    title: "IT Support and Operators",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Petra Alpha School, Jakarta",
+    time: "(Augs, 2019 - Juli, 2020)",
+    desp: "<li>IT Support (hardware, Software and network).</li><li>Managing Dapodik Applications (Education Basic Data).</li><li>Manage PMP (Educational Quality Mapping) Applications.</li><li>Manage SPM Applications (Minimum Service Standards).</li><li>Submission of KIP (Smart Indonesia Card) to implement the PIP Program.</li><li>Managing the BIOUN Application (National Examination Biodata).</li><li>Manage Inventory of Facilities and Infrastructure IT.</li>",
   },
   {
-    title: "Research Intern",
+    title: "Freelance Website Developer",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    place: "Curug, Gunung Sindur, Bogor",
+    time: "(Marc, 2023 - Present)",
+    desp: "<li>Design, build, optimize and maintain websites and software using HTML, CSS and Java Script programming languages.</li><li>Design responsive and attractive website page layouts and interfaces.</li><li>Conduct testing and QA to ensure the website is accessible on various devices and browsers.</li><li>Evaluate code to ensure that it meets standards, is valid, well-structured, and compatible with the browser, device, or OS.</li><li>Identify problems found from feedback or testing and fix them.</li>",
   },
 ];
 
