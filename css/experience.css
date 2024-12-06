@@ -1,7 +1,7 @@
-//@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
-//@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
-//html[light-mode="light"] {
+html[light-mode="light"] {
   --bg1-color: rgba(0, 0, 0, 0);
   --text-color: #6c757d;
   --shadow-col1: #babdc2;
@@ -10,7 +10,7 @@
   --head-col: black;
 }
 
-//html[light-mode="dark"] {
+html[light-mode="dark"] {
   --bg1-color: #272727;
   --text-color: #fff;
   --bg-txt-img: linear-gradient(315deg, #d5adc8 0%, #ff8489 74%);
@@ -26,7 +26,7 @@ html {
 }
 /*Main section*/
 
-//@media (max-width: 766px) {
+@media (max-width: 766px) {
   .dropdown {
     position: absolute;
     padding-right: 3.5rem;
